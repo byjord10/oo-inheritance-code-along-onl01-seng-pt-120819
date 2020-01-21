@@ -10,6 +10,10 @@ class Car
 
   def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
+
+  def fill_up
+    "filling up!"
   end 
 
 
