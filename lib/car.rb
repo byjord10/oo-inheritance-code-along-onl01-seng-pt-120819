@@ -8,6 +8,9 @@ class Car
     @number = "4"
   end
 
+  def wheel_number(wheel_number)
+    @wheel_number = "2"
+
 
 
 end
